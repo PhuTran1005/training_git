@@ -27,3 +27,5 @@ while (1): # Vong lap vo tan cho toi khi bam q de thoat vong lap
         break
 cap.release ()  #giai phong bo nho
 cv2.destroyAllWindows () # huy di
+
+######################################
